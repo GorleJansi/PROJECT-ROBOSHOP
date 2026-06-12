@@ -621,4 +621,4 @@ Databases and message queues should be ready before starting the application ser
 - Database ports are open for dependent services.
 - Schema and master data are loaded where required.
 - Nginx reverse proxy points to correct backend service IPs.
-- Application endpoints respond through frontend.
+
